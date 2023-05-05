@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/oldScenes/Final Project V_5 - added reception.unity
+    guid: 3cf7cabe6a2264f9196d1b3df5569695
+  - enabled: 1
+    path: Assets/Scenes/oldScenes/Final Project V_9 - Added Teleporting - finished
+      food hall and almost finished norway.unity
+    guid: 27a4277bc562b4b35826dbbf507c3592
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 29182ba60b5a74e92b9a9f3738e45075, type: 2}

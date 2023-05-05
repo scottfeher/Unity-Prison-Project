@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 9190d8b4ff08e4e42902185c082729b6
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum_BlackMat
+    second: {fileID: 2100000, guid: f19cc9b325d0940a099bf873d483e94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asfalt,_bitumicznyMat
+    second: {fileID: 2100000, guid: 9e0f66e0cfd1a4756b3586d88f2b52bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asfalt,_jasnyMat
+    second: {fileID: 2100000, guid: 99de1ebcbf78b430192ac47e736d8007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asfalt,_roweryMat
+    second: {fileID: 2100000, guid: cbbb3731c6dc542ed82f9596ca39298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "BETON_G\u0141ADKIMat"
+    second: {fileID: 2100000, guid: 39efe90f4011c4affba5c346fc9185f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_panelMat
+    second: {fileID: 2100000, guid: c88950615356648728df90c50f35168d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bois_-_M\xE9lamin\xE9_brunMat"
+    second: {fileID: 2100000, guid: 2963bb5ab0718486a8cb9b0134ce33c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Ceg\u0142a,_kostki_brukowe_chodnikMat"
+    second: {fileID: 2100000, guid: 28f591ecf99c847fa9f96f9da9973cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuir_-_BeigeMat
+    second: {fileID: 2100000, guid: a7e2504fdab5e4b7cb21040f466e146f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Dach_\u2014_papaMat"
+    second: {fileID: 2100000, guid: 35dbf009c17114e2ebcc4073569c4e6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_-_HandleMat
+    second: {fileID: 2100000, guid: cf7ba368819474873adc0e6c5446d8f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Drewno_-_pod\u0142ogaMat"
+    second: {fileID: 2100000, guid: 040c46eb778e147b992f7580b7947885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drzwi_-_panelMat
+    second: {fileID: 2100000, guid: a3a2d8bf82baa43e3bbca9b7fe06e8e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drzwi_-_ramaMat
+    second: {fileID: 2100000, guid: 79f1ff746fc4446709edb4a403d30487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drzwi_-_uchwytMat
+    second: {fileID: 2100000, guid: 53fc4458004734391a33d63c16cee73c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Epoxy_Resin_-_TOTO_-_61_Angelic_WhiteMat
+    second: {fileID: 2100000, guid: 20aa6453e5b7e4f129515c569759c3dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Klinkier,_p\u0142ytka_szara_pionMat"
+    second: {fileID: 2100000, guid: 90504345b5af04d559716bd360296790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laminate_-_Linen,_MatteMat
+    second: {fileID: 2100000, guid: 09a23586f545245a490ef2160f5f29f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather_-_TanMat
+    second: {fileID: 2100000, guid: 40fffbb61bfb14b0a8b7133bc9bf64da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalMat
+    second: {fileID: 2100000, guid: 69d52048ce14e44af9428d533a01adb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_-_Dero_-_Hot_Dipped_Galvanized_SteMat
+    second: {fileID: 2100000, guid: 6f9ae54e9c14a478291c4265cf1233da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_-_SteelMat
+    second: {fileID: 2100000, guid: 0487ec42c0dcf4b409156dd23d6dfe2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_-_TOTO_-_Chrome_-_PolishedMat
+    second: {fileID: 2100000, guid: db19369ac361049d0873acfd31cf004f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_-_TOTO_-_Enameled_-_01_CottonMat
+    second: {fileID: 2100000, guid: a61f7bad03c0b45c688197dcde1e2245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_1Mat
+    second: {fileID: 2100000, guid: 6364abec798e34282acdb32ddb099a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_2Mat
+    second: {fileID: 2100000, guid: fa20470a4f4d6406b9d42549aa965c98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Modele_og\xF3lneMat"
+    second: {fileID: 2100000, guid: 6ca9eff55d4d842d3890352e1f74c836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal_-_Acier,_PoliMat"
+    second: {fileID: 2100000, guid: 270dddf58130e4a8988a7131a50f3102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal_-_ChromeMat"
+    second: {fileID: 2100000, guid: 598c76c5b44c947a38782688dd1f9a64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "M\xE9tal_-_Chrome_poliMat"
+    second: {fileID: 2100000, guid: 75512985381ea4b6b8d6c38b8c889980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "OBR\xD3BKA_BLACHARSKA_SZARAMat"
+    second: {fileID: 2100000, guid: 64b8309b17e81423e81a2b8df4a9e56c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "OBR\xD3BKA_BLACHARSKA_ciemno_SZARAMat"
+    second: {fileID: 2100000, guid: b84ddb867bb0642368d6d5b9c3e274d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "OBR\xD3BKA_BLACHARSKA_grafitMat"
+    second: {fileID: 2100000, guid: c361f32a54c204e02bba80239066195d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "OBR\xD3BKA_BLACHARSKA_jasno_szaraMat"
+    second: {fileID: 2100000, guid: c8c4f3b3c7b9b4e6cabe522da1b13d0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Osprz\u0119t_hydraulicznyMat"
+    second: {fileID: 2100000, guid: 0693337127df841a999c3848973e97d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "PLASTIK_BIA\u0141YMat"
+    second: {fileID: 2100000, guid: 7cf14b1536c34490883be8d46ed2b16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POLISTYREN_EKSTRUDOWANY_(STYRODUR)_10cmMat
+    second: {fileID: 2100000, guid: de0d60e2e4d454477ba28543b4eaec53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_-_TOTO_-_01_CottonMat
+    second: {fileID: 2100000, guid: d57b1cb39c62c4e359cfa4a264b75117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique_-_CzarnyMat
+    second: {fileID: 2100000, guid: 1f67e2de46b1b449a8f833b07208a41b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique_-_NoirMat
+    second: {fileID: 2100000, guid: dfff6de2966b44020b2a2622c1e35a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastique_-_Vert_JauneMat
+    second: {fileID: 2100000, guid: 0bd72336876dd49baac78860a9a9d20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelaine_-_BlancheMat
+    second: {fileID: 2100000, guid: fa8cf0e45e7d5443fba71d4684d3b1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelaine_-_JauneMat
+    second: {fileID: 2100000, guid: 525c2ea35985c46e0970ba1576913d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelaine_-_LinMat
+    second: {fileID: 2100000, guid: f3e0688078bb8497b8cc187a3998be7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PorcelanaMat
+    second: {fileID: 2100000, guid: 95c5417d0d6a545f0b455e3145339ef4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Por\u0119czeMat"
+    second: {fileID: 2100000, guid: f1792d85e6a15449ba8ef75499906386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "P\u0141YTA_GK_1,25cmMat"
+    second: {fileID: 2100000, guid: d65c678969bc34a878d7ccdc76ae9365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RubberMat
+    second: {fileID: 2100000, guid: fe4844dc77854455298f2fef24aebf91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "SZK\u0141O_MLECZNEMat"
+    second: {fileID: 2100000, guid: b49a1d319b3334827ad9d04d1e9d7a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel-Kohler-NA-StainlessMat
+    second: {fileID: 2100000, guid: 4917979095ac448b993076ff19d776d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Szk\u0142o,_przeszklenie_przezroczysteMat"
+    second: {fileID: 2100000, guid: b5c22616d88d14074bde805e359d3e5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Szk\u0142o_nie_przezroczysteMat"
+    second: {fileID: 2100000, guid: af15d9905b4784f8583f4725112383d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teren_-_TRAWAMat
+    second: {fileID: 2100000, guid: e5ba9b52aa7bd434da4b06b2ec51ce18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Teren_-_a\u017CurMat"
+    second: {fileID: 2100000, guid: 3e303e41efd44429eaad1ab6238d29c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teren_-_kostka_ulicaMat
+    second: {fileID: 2100000, guid: 87374a4c4f76e48108b8cf7482ed0d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teren_-_krata_trawnikowaMat
+    second: {fileID: 2100000, guid: fda2eaa8e41fc4706adcfb3af96ec1ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TynkMat
+    second: {fileID: 2100000, guid: 7083d233bf3834176a0249a01ab76f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "WE\u0141NA_MINERALNA_10cmMat"
+    second: {fileID: 2100000, guid: 6eaaf3b3e352e4274b6e244a1e19c11a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZiemiaMat
+    second: {fileID: 2100000, guid: df199fdb6341a42269f7fec191915425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bcd970bf_2453_4ff3_a54d_c3f10b5819bbMat
+    second: {fileID: 2100000, guid: 5145891c00d594fc095138f9580fb675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: deska_tarasowaMat
+    second: {fileID: 2100000, guid: 3fdee0c8cd3794419ae9a3d080fea672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: e477dd14_0cce_4924_bec2_5036721e5877Mat
+    second: {fileID: 2100000, guid: 5ec1a2c733e564e5d8a41cf0ec1d29d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: okap_drewniany_szary_pionMat
+    second: {fileID: 2100000, guid: f941eadd48d714385b9e99180f8a7b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "pod\u0142oga_klepkaMat"
+    second: {fileID: 2100000, guid: 5fcabebed771a4a8386926ee44883573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: siatkaMat
+    second: {fileID: 2100000, guid: 4f93cad539648449b932a4d7702a2105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "zas\u0142ona_szaraMat"
+    second: {fileID: 2100000, guid: f36c764e08fc744908d6409c0addd229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u015AcianyMat"
+    second: {fileID: 2100000, guid: 2091c9831162149a19ad10f0a84a2811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u017BELBETMat"
+    second: {fileID: 2100000, guid: cfb9b15a8aeeb49bf8906af9d22a80c9, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
